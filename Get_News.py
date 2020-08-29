@@ -110,6 +110,3 @@ if __name__ == '__main__':
     getNews()
     getData()
     mergeData()
-# df = pd.read_csv('TSLA_news.csv')
-# df.drop(columns=['index', 'Unnamed: 0'], inplace=True)
-# df.to_csv('TSLA_news.csv')
